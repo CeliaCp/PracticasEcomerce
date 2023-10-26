@@ -59,8 +59,10 @@ body {
 }
 
 .ejem{
-padding-left: 20px;
+    display: flex;
+    justify-content: center;  
 }
+
 .ejemplo-6 {
   background: #ffffff;
   width: 251px;
