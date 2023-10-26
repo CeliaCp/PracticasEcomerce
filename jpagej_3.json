@@ -1,0 +1,20 @@
+{
+    "pageTitle": "Título de la Página",
+    "pageTitles": {
+      "home": "Inicio",
+      "about": "Acerca de Nosotros",
+      "contact": "Contacto"
+    },
+    "branding": {
+      "logoURL": "/images/gato1.jpg",
+      "companyName": "Nombre de la Empresa"
+    },
+    "showElements": {
+      "showLogo": true
+    },
+    "colors": {
+      "backgroundColor": "#ffffff",
+      "textColor": "#000077",
+      "linkColor": "#0077cc"
+    }
+  }

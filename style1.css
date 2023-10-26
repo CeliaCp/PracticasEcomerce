@@ -1,0 +1,269 @@
+.body,
+.body * {
+  box-sizing: border-box;
+}
+.body {
+  background: #ffffff;
+  width: 1415px;
+  height: 1008px;
+  position: relative;
+}
+.footer {
+  background: #ffffff;
+  width: 1415px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 958px;
+}
+.enlace {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 451px;
+  top: 12px;
+  width: 512px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.noticias {
+  background: #ffffff;
+  width: 207px;
+  height: 603px;
+  position: absolute;
+  left: 1194px;
+  top: 346px;
+}
+.section-4 {
+  background: #ffffff;
+  width: 178px;
+  height: 281px;
+  position: absolute;
+  left: 15px;
+  top: 18px;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 178px;
+  height: 280px;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+}
+.texto {
+  color: #000000;
+  text-align: right;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 26px;
+  top: 88px;
+  width: 126px;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.section-5 {
+  background: #ffffff;
+  width: 178px;
+  height: 271px;
+  position: absolute;
+  left: 15px;
+  top: 301px;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 178px;
+  height: 281px;
+  position: absolute;
+  left: 0px;
+  top: 11px;
+}
+.texto2 {
+  color: #000000;
+  text-align: right;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 26px;
+  top: 114px;
+  width: 126px;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.contenedor {
+  background: #ffffff;
+  width: 1164px;
+  height: 603px;
+  position: absolute;
+  left: 14px;
+  top: 346px;
+}
+.section-3 {
+  background: #ffffff;
+  width: 534px;
+  height: 310px;
+  position: absolute;
+  left: 595px;
+  top: 260px;
+}
+.foto-3 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 485px;
+  height: 264px;
+  position: absolute;
+  left: 24px;
+  top: 25px;
+}
+.boton-2 {
+  background: #ffffff;
+  width: 176px;
+  height: 48px;
+  position: absolute;
+  left: 179px;
+  top: 193px;
+}
+.section-2 {
+  background: #ffffff;
+  width: 536px;
+  height: 312px;
+  position: absolute;
+  left: 35px;
+  top: 258px;
+}
+.foto-2 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 485px;
+  height: 264px;
+  position: absolute;
+  left: 28px;
+  top: 26px;
+}
+.boton-1 {
+  background: #ffffff;
+  width: 176px;
+  height: 48px;
+  position: absolute;
+  left: 182px;
+  top: 197px;
+}
+.section-1 {
+  background: #ffffff;
+  width: 1094px;
+  height: 206px;
+  position: absolute;
+  left: 35px;
+  top: 26px;
+}
+.foto-1 {
+  background: #d9d9d9;
+  border-radius: 40px 0px 0px 0px;
+  width: 1049px;
+  height: 151px;
+  position: absolute;
+  left: 23px;
+  top: 29px;
+}
+.nombre-proyecto {
+  color: #000000;
+  text-align: center;
+  font: 400 36px "Inter", sans-serif;
+  position: absolute;
+  left: 301px;
+  top: 29px;
+  width: 492px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.presentacion {
+  background: #ffffff;
+  width: 1415px;
+  height: 273px;
+  position: absolute;
+  left: 0px;
+  top: 64px;
+}
+.sift-2 {
+  background: #ffffff;
+  width: 42px;
+  height: 44px;
+  position: absolute;
+  left: 29px;
+  top: 116px;
+}
+.sift-1 {
+  background: #ffffff;
+  width: 42px;
+  height: 44px;
+  position: absolute;
+  left: 1317px;
+  top: 116px;
+}
+.nombre-de-la-p-gina {
+  color: #000000;
+  text-align: center;
+  font: 400 36px "Inter", sans-serif;
+  position: absolute;
+  left: 252px;
+  top: 0px;
+  width: 911px;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  background: #ffffff;
+  width: 201px;
+  height: 181px;
+  position: absolute;
+  left: 118px;
+  top: 70px;
+}
+.navbar {
+  background: #ffffff;
+  width: 1415px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.menu-2 {
+  background: #ffffff;
+  width: 302px;
+  height: 44px;
+  position: absolute;
+  left: 1099px;
+  top: 6px;
+}
+.empresa {
+  color: #000000;
+  text-align: center;
+  font: 400 36px "Inter", sans-serif;
+  position: absolute;
+  left: 516px;
+  top: 0px;
+  width: 383px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu {
+  background: #ffffff;
+  width: 110px;
+  height: 45px;
+  position: absolute;
+  left: 15px;
+  top: 6px;
+}

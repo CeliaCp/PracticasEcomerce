@@ -1,0 +1,30 @@
+{
+    "pageTitle": "Título de la Página 2",
+    "pageTitles": {
+      "home": "Inicio",
+      "about": "Acerca de Nosotros",
+      "contact": "Contacto"
+    },
+    "branding": {
+      "logoURL": "ruta/logo.png",
+      "companyName": "Nombre de la Empresa",
+      "projectName": "Nombre del Proyecto"
+    },
+    "showElements": {
+      "showLogo": true,
+      "showProjectName": true,
+      "showContactForm": false
+      
+    },
+    "colors": {
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "linkColor": "#0077cc"
+      
+    },
+    "seoTexts": {
+      "homeDescription": "Descripción SEO de la página de inicio.",
+      "aboutDescription": "Descripción SEO de la página Acerca de Nosotros.",
+      "contactDescription": "Descripción SEO de la página de Contacto."
+    }
+  }
