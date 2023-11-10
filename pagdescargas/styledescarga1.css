@@ -4,16 +4,16 @@
 }
 .body-descarga-1 {
   background: #ffeecf;
-  width: 1415px;
+  width: 100%;
   height: 1193px;
-  position: relative;
+  display: flex;
+  justify-content: center;
 }
 .footer {
   background: #ffeecf;
   width: 1415px;
   height: 40px;
   position: absolute;
-  left: 0px;
   top: 1153px;
 }
 .contacto-email-iwehjfoiwehfoi-telefono-7649747648 {
@@ -60,7 +60,6 @@
   text-align: center;
   font: 400 12px "Inter", sans-serif;
   position: absolute;
-  left: 1194px;
   top: 7px;
   width: 57.69px;
   height: 27px;
@@ -73,7 +72,6 @@
   width: 1387px;
   height: 611px;
   position: absolute;
-  left: 14px;
   top: 516px;
 }
 .ejemplo-3 {
@@ -181,7 +179,6 @@
   text-align: center;
   font: 400 36px "Inter", sans-serif;
   position: absolute;
-  left: 484px;
   top: 422px;
   width: 448px;
   height: 20px;
@@ -190,7 +187,6 @@
   width: 1387px;
   height: 222px;
   position: absolute;
-  left: 14px;
   top: 122px;
 }
 .por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n {
@@ -206,41 +202,14 @@
 .por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span {
   color: #000000;
   font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span2 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span3 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span4 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span5 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span6 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span7 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
-}
-.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span8 {
-  color: #000000;
-  font: 400 12px "Inter", sans-serif;
+  position: relative;
 }
 .navbar {
   background: #ffeecf;
   width: 1415px;
   height: 44px;
   position: absolute;
-  left: 0px;
+
   top: 0px;
 }
 .agrega-la-ubicaci-n-de-tu-audiencia-en-el-post-32 {
